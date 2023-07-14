@@ -1,0 +1,78 @@
+Live demo:
+----------
+The interactive live demo is available on the Tableau Public server hosted at the link: https://public.tableau.com/app/profile/solomon.jayakar.durgam/viz/DataVisProj_Assignment3/DashboardExpFinalBeta-PhaseRelease
+
+Folder Structure:
+-----------------
+file contains the folder structure as follows:
+
+Dashboard-Plastic-Waste-Generation-Tableau
+    |----user_manual.txt
+    |----user_guide.docx
+    |----datasets
+    |     |----JambeckSData_raw.xlsx
+    |     |----Plastic Waste Final.xlsx
+    |     |----Transposed Task 3 Final.xlsx
+    |----code
+    |     |----Task_1_BarPlot.twbx
+    |     |----Task_1_ColorMap.twbx
+    |     |----Task_1_Final_CustomBinning.twbx
+    |     |----Task_1_QuickBinning.twbx
+    |     |----Task_1_TreeMap.twbx
+    |     |----Task_2_Final_BarPlot.twbx
+    |     |----Task_2_LinePlot.twbx
+    |     |----Task_3_Final.twbx
+    |----paper_source
+          |----figures
+          |     |----fig-1.png
+          |     |----fig-2.png
+          |     |----fig-3.png
+          |     |----fig-4.png
+          |     |----fig-5.png
+          |     |----fig-6.png
+          |     |----fig-7.png
+          |     |----fig-8.png
+          |     |----fig-9.png
+          |     |----fig-10.png
+          |     |----fig-11a.png
+          |     |----fig-11b.png
+          |     |----fig-12.png
+          |     |----fig-13a.png
+          |     |----fig-13b.png
+          |     |----fig-14.png
+          |     |----fig-15.png
+          |     |----fig-16.png
+          |     |----fig-17.png
+          |     |----fig-18.png
+          |     |----fig-19.png
+          |     |----fig-20.png
+          |     |----validation-1.png
+          |     |----validation-2.png
+          |     |----validation-3.png
+          |     |----validation-4.png
+          |     |----validation-5.png
+          |     |----validation-6.png
+          |----text
+                |----Group7_Conference Paper.pdf
+
+1. user_manual.txt  - Contains information about folder structure and each of the folder information and the contact details of the group members.
+2. user_guide.docx -  Contains information about how to load and use the code given in the code folder.
+3. code - Contains all the code files.
+4. paper_source -  Contains two sub-folder with the information regarding the papers and figures.
+4. (a) figures - Contains all the figures used as part of the papers.
+4. (b) text - Contains the conference paper in pdf format.
+
+
+Contact Information:
+--------------------
+1) Ashwik Kilari - kr74099@umbc.edu
+2) Solomon Durgam - sdurgam1@umbc.edu
+3) Seelam Chaitanya - kg46418@umbc.edu
+4) Jonah Ukaegbu - jonahu1@umbc.edu
+5) Namratha Siddula - nsiddul1@umbc.edu
+
+Tools:
+------
+Tableau Public is freeware software with limited functionalities, and can be downloaded and used for free
+
+
